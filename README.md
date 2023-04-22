@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Calculator App](https://github.com/Underemployed/myApp)
 
-- 🌱 I’m currently learning **Flutter and Mobile Development**
+- 🌱 I’m currently learning **Flutter and Mobile App Development**
 
 - 📫 How to reach me through **nithinasokancoc@gmail.com**
 
