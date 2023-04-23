@@ -25,11 +25,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Underemployed&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nithin a) 
-<a href="https://www.leetcode.com/nithinasokancoc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nithinasokancoc" height="30" width="40" /></a>
-
-
-
 
 
