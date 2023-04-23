@@ -25,13 +25,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Underemployed&theme=buefy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Underemployed&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-
-
-# 💫 About Me:
-🔭 I’m currently working on Calculator App<br>🌱 I’m currently learning Flutter and Mobile App Development<br>📫 How to reach me through nithinasokancoc@gmail.com<br>
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nithin a) 
 <a href="https://www.leetcode.com/nithinasokancoc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nithinasokancoc" height="30" width="40" /></a>
