@@ -4,7 +4,7 @@
 [![](https://visitcount.itsvg.in/api?id=Underemployed&icon=0&color=0)](https://visitcount.itsvg.in)
 # 💫 About Me:
 
-- 🔭 I’m currently working on [Calculator App](https://github.com/Underemployed/myApp)
+- 🔭 I’m currently working on [Python Stock Prediction App](https://github.com/Underemployed/Python-Stock-Trend-Prediction)
 
 - 🌱 I’m currently learning **Flutter and Mobile App Development**
 
