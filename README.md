@@ -4,9 +4,9 @@
 [![](https://visitcount.itsvg.in/api?id=Underemployed&icon=0&color=0)](https://visitcount.itsvg.in)
 # 💫 About Me:
 
-- 🔭 I’m currently working on [Web Scraping](https://github.com/Underemployed/web_scraping)
+- 🔭 I’m currently working on [My App](https://github.com/Underemployed/myApp)
 
-- 🌱 I’m currently learning **Web Scraping**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me through **nithinasokancoc@gmail.com**
 
