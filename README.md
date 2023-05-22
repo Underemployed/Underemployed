@@ -21,10 +21,11 @@
 </p>
 
 <h2 style="text-align: center;">🔥 Github Stats</h2>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Underemployed&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="max-width: 100%;">
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Underemployed&theme=dark&hide_border=true&include_all_commits=false&count_private=false" style="max-width: 100%;"><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Underemployed&theme=dark&hide_border=true" style="max-width: 100%;"><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Underemployed&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" style="max-width: 100%;">
+    <br><img src="https://github-readme-stats.vercel.app/api?username=Underemployed&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" style="max-width: 100%;"></br>
+ <br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Underemployed&theme=algolia&hide_border=false" style="max-width: 100%;"><br/>
+ 
 </div>
 
 <br>
