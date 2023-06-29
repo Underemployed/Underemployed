@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Nithin</h1>
+<h1 align="center">Hi</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Information+Technology+Student;Programmer;Always%20learning%20new%20things&center=true&width=500&height=50">
