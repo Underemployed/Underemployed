@@ -36,3 +36,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=Underemployed&layout=compact&theme=algolia" alt="asimkymk">
   </a>
 </p>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Underemployed&color=blue" alt="Profile views" />
+</p>
